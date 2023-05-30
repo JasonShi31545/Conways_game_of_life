@@ -155,43 +155,6 @@ int main(int argc, const char *argv[]) {
         make_pair(6+p+2, 33),
         make_pair(6+p+3, 33),
 
-
-        make_pair(50-1, 50),
-        make_pair(50-1, 51),
- make_pair       (50-1, 54),
- make_pair       (51-1, 50),
- make_pair       (51-1, 53),
- make_pair       (52-1, 50),
- make_pair       (52-1, 53),
- make_pair       (52-1, 54),
- make_pair       (53-1, 52),
- make_pair       (54-1, 50),
- make_pair       (54-1, 52),
- make_pair       (54-1, 53),
- make_pair       (54-1, 54),
-
-         make_pair(9, 10),
-        make_pair(10, 10),
-        make_pair(11, 10),
-
-        make_pair(10, 11),
-        make_pair(10, 12),
-
-        make_pair(9, 13),
-        make_pair(10, 13),
-        make_pair(11, 13),
-
-        make_pair(9, 15),
-        make_pair(10, 15),
-        make_pair(11, 15),
-
-        make_pair(50, 50),
- make_pair       (51, 50),
- make_pair       (51, 51),
- make_pair       (56, 49),
- make_pair       (56, 51),
- make_pair       (55, 51),
- make_pair       (57, 51)
     };
     // Gosper glider gun & eater
     /*
